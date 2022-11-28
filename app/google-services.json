@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754949036370",
+    "project_id": "smartmusicplayer-e89f3",
+    "storage_bucket": "smartmusicplayer-e89f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754949036370:android:2ee214f47d71fd4b4a828b",
+        "android_client_info": {
+          "package_name": "com.iamvermaishan.smartmusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754949036370-vvb2sj6flbt915dvsddldhnii4prulki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLk01Ojz53Pn4pW5kYTh7DTGI4lueQmg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754949036370-vvb2sj6flbt915dvsddldhnii4prulki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
